@@ -1,0 +1,63 @@
+No,smi_mol1,smi_mol2,smi_mol3,smi_mol4,smi_mol5,smi_mol6,smi_mol7,smi_mol8,smi_mol9,smi_mol10,smi_mol11,smi_mol12,smi_mol13,x_mol_1,x_mol_2,x_mol_3,x_mol_4,x_mol_5,x_mol_6,x_mol_7,x_mol_8,x_mol_9,x_mol_10,x_mol_11,x_mol_12,x_mol_13,Mole/Weight/Volume Fraction,CN,DCN or ICN,Method,Device,Comments,Reference,can_smi_1,can_smi_2,can_smi_3,can_smi_4,can_smi_5,can_smi_6,can_smi_7,can_smi_8,can_smi_9,can_smi_10,can_smi_11,can_smi_12,can_smi_13,blends_str_repr
+1,CCCCCCC,,,,,,,,,,,,,1.0,,,,,,,,,,,,,mole,53.7,DCN,ASTM D6890,CFR Engine,,1,CCCCCCC,,,,,,,,,,,,,CCCCCCC_1.000_
+182,CCCCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,57.6,ICN,ASTM D8183,AFIDA,2000 ppm of lubricity additive (Infineum R655),8,CCCCCCC,,,,,,,,,,,,,CCCCCCC_1.000_
+941,CCCCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,53.8,DCN,ASTM D6890,IQT,,52,CCCCCCC,,,,,,,,,,,,,CCCCCCC_1.000_
+1232,CCCCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,54.1,DCN,ASTM D7170,FIT,,15,CCCCCCC,,,,,,,,,,,,,CCCCCCC_1.000_
+183,CCCCCCCCCCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,51.61,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,CCCCCCCCCCCCO,,,,,,,,,,,,,CCCCCCCCCCCCO_1.000_
+1092,CCCCCCCCCCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,63.6,DCN,ASTM D6890,IQT,,67,CCCCCCCCCCCCO,,,,,,,,,,,,,CCCCCCCCCCCCO_1.000_
+184,CCCC=O,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,38.32,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,CCCC=O,,,,,,,,,,,,,CCCC=O_1.000_
+1096,CCCC=O,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,41.1,DCN,ASTM D6890,IQT,,59,CCCC=O,,,,,,,,,,,,,CCCC=O_1.000_
+185,CC1CCCCC1,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,17.36,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,CC1CCCCC1,,,,,,,,,,,,,CC1CCCCC1_1.000_
+986,CC1CCCCC1,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,23.5,DCN,ASTM D6890,IQT,,61,CC1CCCCC1,,,,,,,,,,,,,CC1CCCCC1_1.000_
+186,CC(C)CC(C)(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,5.2,ICN,ASTM D8183,AFIDA,,8,CC(C)CC(C)(C)C,,,,,,,,,,,,,CC(C)CC(C)(C)C_1.000_
+963,CC(C)CC(C)(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,17.4,DCN,ASTM D6890,IQT,,22,CC(C)CC(C)(C)C,,,,,,,,,,,,,CC(C)CC(C)(C)C_1.000_
+187,CC(CO)OCC(C)OCC(C)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,60.01,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,COC(C)COC(C)COC(C)CO,,,,,,,,,,,,,COC(C)COC(C)COC(C)CO_1.000_
+1138,CC(CO)OCC(C)OCC(C)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,81.3,DCN,ASTM D6890,IQT,,53,COC(C)COC(C)COC(C)CO,,,,,,,,,,,,,COC(C)COC(C)COC(C)CO_1.000_
+188,CC(CO)OCC(C)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,30.2,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,COC(C)COC(C)CO,,,,,,,,,,,,,COC(C)COC(C)CO_1.000_
+1130,CC(CO)OCC(C)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,43.9,DCN,ASTM D6890,IQT,,53,COC(C)COC(C)CO,,,,,,,,,,,,,COC(C)COC(C)CO_1.000_
+191,CCCCOC(=O)CCC(=O)OCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,10.13,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,CCCCOC(=O)CCC(=O)OCCCC,,,,,,,,,,,,,CCCCOC(=O)CCC(=O)OCCCC_1.000_
+1212,CCCCOC(=O)CCC(=O)OCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,19.4,DCN,ASTM D6890,IQT,,76,CCCCOC(=O)CCC(=O)OCCCC,,,,,,,,,,,,,CCCCOC(=O)CCC(=O)OCCCC_1.000_
+192,CCCCCCCC=O,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,84.1,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,CCCCCCCC=O,,,,,,,,,,,,,CCCCCCCC=O_1.000_
+1110,CCCCCCCC=O,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,102.5,DCN,ASTM D6890,IQT,,59,CCCCCCCC=O,,,,,,,,,,,,,CCCCCCCC=O_1.000_
+193,COCCOCCOCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,60.05,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),8,COCCOCCOCCO,,,,,,,,,,,,,COCCOCCOCCO_1.000_
+1131,COCCOCCOCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,80.7,DCN,ASTM D6890,IQT,,53,COCCOCCOCCO,,,,,,,,,,,,,COCCOCCOCCO_1.000_
+194,CCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,60.82,ICN,ASTM D8183,AFIDA,,9,CCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,CCCCCCCCCCCC(=O)OC_1.000_
+1158,CCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,66.7,DCN,ASTM D6890,IQT,,69,CCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,CCCCCCCCCCCC(=O)OC_1.000_
+196,CCCCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,68.42,ICN,ASTM D8183,AFIDA,,9,CCCCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,CCCCCCCCCCCCCC(=O)OC_1.000_
+1160,CCCCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,75.8,DCN,ASTM D6890,IQT,,59,CCCCCCCCCCCCCC(=O)OC,,,,,,,,,,,,,CCCCCCCCCCCCCC(=O)OC_1.000_
+197,CCCCCCCCCCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,70.78,ICN,ASTM D8183,AFIDA,,9,CCCCCCCCCCCCCC(=O)OCC,,,,,,,,,,,,,CCCCCCCCCCCCCC(=O)OCC_1.000_
+1191,CCCCCCCCCCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,66.9,DCN,ASTM D6890,IQT,,74,CCCCCCCCCCCCCC(=O)OCC,,,,,,,,,,,,,CCCCCCCCCCCCCC(=O)OCC_1.000_
+201,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,46.02,ICN,ASTM D8183,AFIDA,,9,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,,,,,,,,,,,,,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC_1.000_
+1199,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,37.1,DCN,ASTM D6890,IQT,,75,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC,,,,,,,,,,,,,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC_1.000_
+202,CCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,16.38,ICN,ASTM D8183,AFIDA,,9,CCCCCC(=O)OC,,,,,,,,,,,,,CCCCCC(=O)OC_1.000_
+1151,CCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,25.3,DCN,ASTM D6890,IQT,,59,CCCCCC(=O)OC,,,,,,,,,,,,,CCCCCC(=O)OC_1.000_
+203,CCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,20.61,ICN,ASTM D8183,AFIDA,,9,CCCCCC(=O)OCC,,,,,,,,,,,,,CCCCCC(=O)OCC_1.000_
+1149,CCCCCC(=O)OCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,27.5,DCN,ASTM D6890,IQT,,59,CCCCCC(=O)OCC,,,,,,,,,,,,,CCCCCC(=O)OCC_1.000_
+209,CCCCCCCC(=O)OCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,45.81,ICN,ASTM D8183,AFIDA,,9,CCCCCCCC(=O)OCCCC,,,,,,,,,,,,,CCCCCCCC(=O)OCCCC_1.000_
+1184,CCCCCCCC(=O)OCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,39.6,DCN,ASTM D6890,IQT,,74,CCCCCCCC(=O)OCCCC,,,,,,,,,,,,,CCCCCCCC(=O)OCCCC_1.000_
+218,CCCCCCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,36.1,ICN,ASTM D8183,AFIDA,,9,CCCCCCCCO,,,,,,,,,,,,,CCCCCCCCO_1.000_
+1031,CCCCCCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,33.9,DCN,ASTM D6890,IQT,,59,CCCCCCCCO,,,,,,,,,,,,,CCCCCCCCO_1.000_
+223,CC(C)CCOCCC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,85.1,ICN,ASTM D8183,AFIDA,,9,CC(C)CCOCCC(C)C,,,,,,,,,,,,,CC(C)CCOCCC(C)C_1.000_
+1136,CC(C)CCOCCC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,96.0,DCN,ASTM D6890,IQT,,53,CC(C)CCOCCC(C)C,,,,,,,,,,,,,CC(C)CCOCCC(C)C_1.000_
+227,CCCOCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,86.12,ICN,ASTM D8183,AFIDA,2000 ppm of lubricity additive (Infineum R655),9,CCCOCCC,,,,,,,,,,,,,CCCOCCC_1.000_
+1252,CCCOCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,106.0,DCN,ASTM D6890,IQT,Missing in the compendium; NREL NB 5997-068,9,CCCOCCC,,,,,,,,,,,,,CCCOCCC_1.000_
+228,CCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,6.9,ICN,ASTM D8183,AFIDA,,8,CCCCO,,,,,,,,,,,,,CCCCO_1.000_
+1012,CCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,11.7,DCN,ASTM D6890,IQT,,21,CCCCO,,,,,,,,,,,,,CCCCO_1.000_
+1231,CCCCO,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,3.7,DCN,ASTM D7170,FIT,,15,CCCCO,,,,,,,,,,,,,CCCCO_1.000_
+1368,CCCCO,,,,,,,,,,,,,1.0,,,,,,,,,,,,,mole,17.0,CN,CN,,,82,CCCCO,,,,,,,,,,,,,CCCCO_1.000_
+274,CCCCCOCCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,142.0,ICN,ASTM D8183,AFIDA,Based on working methodology for high ICN compounds,9,CCCCCOCCCCC,,,,,,,,,,,,,CCCCCOCCCCC_1.000_
+1137,CCCCCOCCCCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,111.0,DCN,ASTM D6890,IQT,,53,CCCCCOCCCCC,,,,,,,,,,,,,CCCCCOCCCCC_1.000_
+301,CC(C)C(C)(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,3.87,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),9,CC(C)C(C)(C)C,,,,,,,,,,,,,CC(C)C(C)(C)C_1.000_
+960,CC(C)C(C)(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,12.9,DCN,ASTM D6890,IQT,,53,CC(C)C(C)(C)C,,,,,,,,,,,,,CC(C)C(C)(C)C_1.000_
+303,CCC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,10.6,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),9,CCC(C)C,,,,,,,,,,,,,CCC(C)C_1.000_
+951,CCC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,25.8,DCN,ASTM D6890,IQT,,16,CCC(C)C,,,,,,,,,,,,,CCC(C)C_1.000_
+304,CCCC(=O)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,1.75,ICN,ASTM D8183,AFIDA,1000 ppm of lubricity additive (Infineum R655),9,CCCC(C)=O,,,,,,,,,,,,,CCCC(C)=O_1.000_
+1223,CCCC(=O)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,9.56,DCN,ASTM D6890,IQT,Missing in compendium,9,CCCC(C)=O,,,,,,,,,,,,,CCCC(C)=O_1.000_
+305,CC(C)OC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,2.13,ICN,ASTM D8183,AFIDA,3000 ppm of lubricity additive (Infineum R655),9,CC(C)OC(C)C,,,,,,,,,,,,,CC(C)OC(C)C_1.000_
+1044,CC(C)OC(C)C,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,23.6,DCN,ASTM D6890,IQT,,59,CC(C)OC(C)C,,,,,,,,,,,,,CC(C)OC(C)C_1.000_
+307,CCCCC1CCCCC1,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,50.0,ICN,ASTM D8183,AFIDA,,10,CCCCC1CCCCC1,,,,,,,,,,,,,CCCCC1CCCCC1_1.000_
+993,CCCCC1CCCCC1,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,47.6,DCN,ASTM D6890,IQT,,53,CCCCC1CCCCC1,,,,,,,,,,,,,CCCCC1CCCCC1_1.000_
+1127,CCOCOCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,57.3,DCN,ASTM D6890,IQT,,59,CCOCOCC,,,,,,,,,,,,,CCOCOCC_1.000_
+1265,CCOCOCC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,47.0,ICN,IP 617/ASTM D8183,AFIDA,,11,CCOCOCC,,,,,,,,,,,,,CCOCOCC_1.000_
+1162,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,37.0,DCN,ASTM D6890,IQT,,53,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,,,,,,,,,,,,,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC_1.000_
+1164,CC/C=C\C/C=C\C/C=C\CCCCCCCC(OC)=O,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,22.7,DCN,ASTM D6890,IQT,,71,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,,,,,,,,,,,,,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC_1.000_

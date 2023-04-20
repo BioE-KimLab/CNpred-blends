@@ -1,0 +1,13 @@
+No,smi_mol1,smi_mol2,smi_mol3,smi_mol4,smi_mol5,smi_mol6,smi_mol7,smi_mol8,smi_mol9,smi_mol10,smi_mol11,smi_mol12,smi_mol13,x_mol_1,x_mol_2,x_mol_3,x_mol_4,x_mol_5,x_mol_6,x_mol_7,x_mol_8,x_mol_9,x_mol_10,x_mol_11,x_mol_12,x_mol_13,Mole/Weight/Volume Fraction,CN,DCN or ICN,Method,Device,Comments,Reference,can_smi_1,can_smi_2,can_smi_3,can_smi_4,can_smi_5,can_smi_6,can_smi_7,can_smi_8,can_smi_9,can_smi_10,can_smi_11,can_smi_12,can_smi_13,blends_str_repr
+505,CCO,CCOCC,,,,,,,,,,,,0.941,0.059,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,7.8,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.941_CCOCC_0.059_
+506,CCO,CCOCC,,,,,,,,,,,,0.877,0.123,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,8.2,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.877_CCOCC_0.123_
+507,CCO,CCOCC,,,,,,,,,,,,0.842,0.158,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,9.2,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.842_CCOCC_0.158_
+508,CCO,CCOCC,,,,,,,,,,,,0.806,0.194,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,10.5,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.806_CCOCC_0.194_
+509,CCO,CCOCC,,,,,,,,,,,,0.768,0.232,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,11.0,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.768_CCOCC_0.232_
+510,CCO,CCOCC,,,,,,,,,,,,0.728,0.272,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,16.9,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.728_CCOCC_0.272_
+511,CCO,CCOCC,,,,,,,,,,,,0.64,0.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,23.8,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.640_CCOCC_0.360_
+512,CCO,CCOCC,,,,,,,,,,,,0.543,0.457,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,35.5,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.543_CCOCC_0.457_
+513,CCO,CCOCC,,,,,,,,,,,,0.433,0.567,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,48.9,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.433_CCOCC_0.567_
+514,CCO,CCOCC,,,,,,,,,,,,0.372,0.628,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,56.6,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.372_CCOCC_0.628_
+515,CCO,CCOCC,,,,,,,,,,,,0.308,0.692,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,67.9,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.308_CCOCC_0.692_
+516,CCO,CCOCC,,,,,,,,,,,,0.165,0.835,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,mole,97.7,DCN,ASTM D6890,IQT,,20,CCO,CCOCC,,,,,,,,,,,,CCO_0.165_CCOCC_0.835_
